@@ -7,5 +7,5 @@ Just show some curves of some alpha factors
   - top20 = top20 return - mean return of all stocks
   - $IC = corr(f_t, r_{t+1})$
 * 三种收益率：OCDay2, OCDay5, OCDay10, 分别表示未来2天、5天、10天收益率的平均值；
-![基于日线数据的因子]()
+![基于日线数据的因子](https://github.com/Jensenberg/alpha-factor-show/blob/master/%E5%9F%BA%E4%BA%8E%E6%97%A5%E7%BA%BF%E6%95%B0%E6%8D%AE%E7%9A%84%E5%9B%A0%E5%AD%90.jpg)
 ![基于分钟数据的因子](https://github.com/Jensenberg/alpha-factor-show/blob/master/%E5%9F%BA%E4%BA%8E%E5%88%86%E9%92%9F%E6%95%B0%E6%8D%AE%E7%9A%84%E5%9B%A0%E5%AD%90.jpg)
