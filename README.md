@@ -30,9 +30,3 @@
 |OCDay2  | 0.22          | 5.63          | -0.02        | 0.11         | 4.90         | -0.02       | 0.09         | 5.37         | -0.01       | 0.02    | 6.96     |
 |OCDay5  | 0.19          | 7.49          | -0.02        | 0.10         | 6.82         | -0.01       | 0.09         | 8.20         | -0.01       | 0.02    | 10.09    |
 |OCDay10 | 0.14          | 8.17          | -0.02        | 0.08         | 7.76         | -0.01       | 0.07         | 9.51         | -0.01       | 0.03    | 11.60    |
-
-* 简单打分法对公司因子库中的因子进行组合
-<p align="left"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/score-excess-cumsum.png"/></p>
-
-* 利用xgboost对公司因子库中的因子进行组合
-<p align="left"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/xgb-excess-cumsum.png"/></p>
