@@ -25,7 +25,7 @@
 
 * 基于lighGBM的多因子组合
 
-  - turnover = $1 - /frac{持有两天的股票数}{每天持有的股票数}$
+  - turnover = $1 - \frac{持有两天的股票数}{每天持有的股票数}$
   - fee = fee(0.25%) * turnover
   
 <p align="center">
