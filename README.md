@@ -23,6 +23,10 @@
 |B087_net_copy| 0.24          | 7.59          | -0.01        | 0.12         | 3.66         | -0.01       | 0.12         | 5.38         | -0.01       | 0.02    | 9.38     |
 |C017_copy|          0.36 |          10.30 |        -0.01 |         0.16 |         7.44 |       -0.01 |         0.13 |         8.62 |       -0.01 |    0.03 |    11.53 |
 
+* 因子相关系数
+
+<p align="center">
+<img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/corr.png"/></p>
 
 * 基于lighGBM的多因子组合
 
