@@ -12,7 +12,7 @@
 * 三种收益率：OCDay2, OCDay5, OCDay10, 分别表示未来2天、5天、10天收益率的平均值，OC表示T+1开盘到T+N收盘；
 
 <p align="center">
-<img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/C017_copy_figures_20100104_20200605.png" width="350"/><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/D003_copy_figures_20100104_20200605.png" width="350"/></p>
+<img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/B087_net_copy_figures_20100104_20200605.png" width="350"/><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/C017_copy_figures_20100104_20200605.png" width="350"/></p>
 
 <p align="center">(左)基于日线数据的因子，(右)基于分钟数据的因子</p>
 
