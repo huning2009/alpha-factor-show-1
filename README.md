@@ -24,5 +24,9 @@
 |D003_copy| 0.27          | 6.42          | -0.02        | 0.14         | 5.24         | -0.01       | 0.10         | 5.74         | -0.01       | 0.02    | 7.69     |
 
 * 基于lighGBM的多因子组合
+
+  - turnover = $1 - /frac{持有两天的股票数}{每天持有的股票数}$
+  - fee = fee(0.25%) * turnover
+  
 <p align="center">
 <img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum.png"/></p>
