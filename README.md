@@ -29,7 +29,7 @@
 <img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/corr.png"/></p>
 
 * 基于lighGBM的多因子组合
-
+  - 将最终的因子得分进行风险中性化(回归去残差)
   - turnover = $1 - \frac{持有两天的股票数}{每天持有的股票数}$
   - fee = fee(0.25%) * turnover
   - 以全部A股为基准<p align="center"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum.png"/></p>
