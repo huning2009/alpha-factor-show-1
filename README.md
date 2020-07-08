@@ -32,10 +32,5 @@
 
   - turnover = $1 - \frac{持有两天的股票数}{每天持有的股票数}$
   - fee = fee(0.25%) * turnover
-  - 以全部A股为基准
-<p align="center">
-<img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum.png"/></p>
-  
-  - 以中证500为基准
-<p align="center">
-<img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum-zz500.png"/></p>
+  - 以全部A股为基准<p align="center"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum.png"/></p>
+  - 以中证500为基准<p align="center"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum-zz500.png"/></p>
