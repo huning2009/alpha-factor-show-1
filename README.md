@@ -10,11 +10,11 @@
   - top20 = top 20% return - mean return of all stocks
   - IC = corr($f_t, r_{t+1}$)
 * 三种收益率：OCDay2, OCDay5, OCDay10, 分别表示未来2天、5天、10天收益率的平均值，OC表示T+1开盘到T+N收盘；
-
+* 基于日线数据的因子
 <p align="center"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/B087_net_copy_figures_20100104_20200605.png" width="800"/></p>
-<p align="center">基于日线数据的因子</p>
+  
+* 基于分钟数据的因子
 <p align="center"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/C017_copy_figures_20100104_20200605.png" width="800"/></p>
-<p align="center">基于分钟数据的因子</p>
 
 * 2017-2020指标年平均值
 
@@ -32,8 +32,10 @@
 
   - turnover = $1 - \frac{持有两天的股票数}{每天持有的股票数}$
   - fee = fee(0.25%) * turnover
-  
+  - 以全部A股为基准
 <p align="center">
 <img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum.png"/></p>
+  
+  - 以中证500为基准
 <p align="center">
 <img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum-zz500.png"/></p>
