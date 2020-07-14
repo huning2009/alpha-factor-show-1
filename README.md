@@ -31,7 +31,7 @@
 * 基于lighGBM的多因子组合
   - 将最终的因子得分进行风格和行业中性化(回归取残差)；
   - turnover = $1 - \frac{持有两天的股票数}{每天持有的股票数}$
-  - fee = fee(0.20%) * turnover
+  - fee = fee(**0.20%**) * turnover
   - 收益率：OODay1，即T+1开盘到T+2开盘
   - 以全部A股为基准<p align="center"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum-market-mean.png"/></p>
   - 以中证500为基准<p align="center"><img src="https://github.com/Jensenberg/alpha-factor-show/blob/master/lgb-reg-cumsum-zz500.png"/></p>
